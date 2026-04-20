@@ -53,7 +53,7 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, 
         <a href="https://www.linkedin.com/in/tu-url-de-linkedin/">LinkedIn</a>
     </li>
     <li>
-        <a href="https://tu-dominio.com/">Porfolio web</a>
+        <a href="https://tu-dominio.com/">Porfoo web</a>
     </li>
 </ul>
 
