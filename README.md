@@ -71,5 +71,5 @@ Este proyect está construido en Vite.
 
 ## Licencia 📄
 
-MIT Public License v3.0
+MIT Public Licensv3.0
 No puede usarse comencialmente.
