@@ -65,7 +65,7 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, 
 
 Este proyect está construido en Vite.
 
-- Para editarl ejecuta el comando <b>npm run dev</b>
+- Para editarl ejecua el comando <b>npm run dev</b>
 - Para construir la ve producción ejeuta el comando <b>npm run build</b>
 - Para previsualizar la versión fina ejeta el c mando <b>npm run preview</b>
 
