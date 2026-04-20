@@ -47,7 +47,7 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, 
 
 <ul>
     <li>
-        <a href="micorreo@midominio.com">micorreo@midominio.com</a>
+        <a href="micorreo@midominio.com">micoreo@midominio.com</a>
     </li>
     <li>
         <a href="https://www.linkedin.com/in/tu-url-de-linkedin/">LinkedIn</a>
