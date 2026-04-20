@@ -72,4 +72,4 @@ Este proyect está construido en Vite.
 ## Licencia 📄
 
 MIT Public Licensv3.0
-No puede usarse comencialmente.
+No puede usarse comencialente.
